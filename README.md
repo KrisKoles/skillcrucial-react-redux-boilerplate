@@ -147,3 +147,4 @@ docker-compose -f .\docker\PROD.docker-compose.yml down (To stop contaiters)
 docker-compose -f .\docker\DEV.docker-compose.yml up (Options: --build for build, -d to detach )
 docker-compose -f .\docker\DEV.docker-compose.yml down (To stop contaiters)
 ```
+# 12.1
